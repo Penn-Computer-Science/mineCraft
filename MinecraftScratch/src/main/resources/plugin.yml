@@ -1,0 +1,4 @@
+name: MinecraftScratch
+version: 1.1
+main: org.example.TestPlugin
+api-version: '1.21'
